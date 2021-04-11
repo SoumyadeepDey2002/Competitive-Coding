@@ -27,8 +27,13 @@ int main()
    cout << c <<endl;
    
    int mx = INT_MAX;
-   cout << mx << " " << mx+1<<endl;
+   cout << mx << " " << mx+1<<endl;  
    cout << INT_MIN <<endl;
+   
+   /*
+   2147483647 -2147483648
+   -2147483648
+   */
 
 
     return 0;
